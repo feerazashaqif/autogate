@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13393263442",
+    "project_id": "auto-gate-fba73",
+    "storage_bucket": "auto-gate-fba73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13393263442:android:0814f6d2b7b4e2a32c588b",
+        "android_client_info": {
+          "package_name": "com.example.auto_gate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13393263442-n68f4b7jfj4u7h13t180k1336nvqu1r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-GFPzpg3-zEOKFmfrOT1pghwmcYfqZPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13393263442-n68f4b7jfj4u7h13t180k1336nvqu1r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
